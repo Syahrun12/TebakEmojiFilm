@@ -1,6 +1,77 @@
-{
-  "id": 1,
-  "name": "Film Example",
-  "genre": "Adventure",
-  "year": 2024
-}
+[
+  {
+    "id": 1,
+    "emoji": "🦁👑",
+    "answer": "The Lion King"
+  },
+  {
+    "id": 2,
+    "emoji": "🚢💔🌊",
+    "answer": "Titanic"
+  },
+  {
+    "id": 3,
+    "emoji": "🕷️🧑",
+    "answer": "Spider-Man"
+  },
+  {
+    "id": 4,
+    "emoji": "🚀🌌👨‍🚀",
+    "answer": "Interstellar"
+  },
+  {
+    "id": 5,
+    "emoji": "❄️⛄️",
+    "answer": "Frozen"
+  },
+  {
+    "id": 6,
+    "emoji": "🧙‍♂️💍🌋",
+    "answer": "The Lord of the Rings"
+  },
+  {
+    "id": 7,
+    "emoji": "🦖🦕🌴",
+    "answer": "Jurassic Park"
+  },
+  {
+    "id": 8,
+    "emoji": "🛳️👩‍✈️🐍",
+    "answer": "Snakes on a Plane"
+  },
+  {
+    "id": 9,
+    "emoji": "👨‍🍳🐀",
+    "answer": "Ratatouille"
+  },
+  {
+    "id": 10,
+    "emoji": "🤖🚗",
+    "answer": "Transformers"
+  },
+  {
+    "id": 11,
+    "emoji": "🦇🦸‍♂️",
+    "answer": "The Dark Knight"
+  },
+  {
+    "id": 12,
+    "emoji": "🌊🏄‍♂️🐬",
+    "answer": "Finding Nemo"
+  },
+  {
+    "id": 13,
+    "emoji": "🎩🐇✨",
+    "answer": "The Greatest Showman"
+  },
+  {
+    "id": 14,
+    "emoji": "🛸👽",
+    "answer": "E.T. the Extra-Terrestrial"
+  },
+  {
+    "id": 15,
+    "emoji": "👑🤴🐒",
+    "answer": "The Jungle Book"
+  }
+]
