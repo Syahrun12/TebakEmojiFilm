@@ -73,5 +73,430 @@
     "id": 15,
     "emoji": "👑🤴🐒",
     "answer": "The Jungle Book"
+  },
+  {
+    "id": 16,
+    "emoji": "🏹🐦🔥",
+    "answer": "The Hunger Games"
+  },
+  {
+    "id": 17,
+    "emoji": "👻🔍",
+    "answer": "Ghostbusters"
+  },
+  {
+    "id": 18,
+    "emoji": "🐉🏯",
+    "answer": "Mulan"
+  },
+  {
+    "id": 19,
+    "emoji": "🧛🦇",
+    "answer": "Dracula"
+  },
+  {
+    "id": 20,
+    "emoji": "👽🌌👨‍🚀",
+    "answer": "Star Wars"
+  },
+  {
+    "id": 21,
+    "emoji": "🦖🏛️",
+    "answer": "Night at the Museum"
+  },
+  {
+    "id": 22,
+    "emoji": "🧞‍♂️🕌",
+    "answer": "Aladdin"
+  },
+  {
+    "id": 23,
+    "emoji": "🌪️🏠👠",
+    "answer": "The Wizard of Oz"
+  },
+  {
+    "id": 24,
+    "emoji": "🛏️💤",
+    "answer": "Inception"
+  },
+  {
+    "id": 25,
+    "emoji": "🐺🌕",
+    "answer": "The Wolfman"
+  },
+  {
+    "id": 26,
+    "emoji": "👩‍🎤🎤",
+    "answer": "Bohemian Rhapsody"
+  },
+  {
+    "id": 27,
+    "emoji": "🐘🎪",
+    "answer": "Dumbo"
+  },
+  {
+    "id": 28,
+    "emoji": "🐾🏞️",
+    "answer": "The Call of the Wild"
+  },
+  {
+    "id": 29,
+    "emoji": "👩‍💻🔓",
+    "answer": "The Matrix"
+  },
+  {
+    "id": 30,
+    "emoji": "🏴‍☠️⚔️",
+    "answer": "Pirates of the Caribbean"
+  },
+  {
+    "id": 31,
+    "emoji": "🎸🎤🤘",
+    "answer": "School of Rock"
+  },
+  {
+    "id": 32,
+    "emoji": "🦁🐻🐯",
+    "answer": "Madagascar"
+  },
+  {
+    "id": 33,
+    "emoji": "🎭💔",
+    "answer": "Romeo and Juliet"
+  },
+  {
+    "id": 34,
+    "emoji": "🧑‍🔬🦠",
+    "answer": "Contagion"
+  },
+  {
+    "id": 35,
+    "emoji": "🍫🏭",
+    "answer": "Charlie and the Chocolate Factory"
+  },
+  {
+    "id": 36,
+    "emoji": "🕶️🕴️",
+    "answer": "Men in Black"
+  },
+  {
+    "id": 37,
+    "emoji": "🛡️⚔️",
+    "answer": "Gladiator"
+  },
+  {
+    "id": 38,
+    "emoji": "🐦🎤",
+    "answer": "Sing"
+  },
+  {
+    "id": 39,
+    "emoji": "👑🐉",
+    "answer": "Game of Thrones"
+  },
+  {
+    "id": 40,
+    "emoji": "👵🧙‍♀️🪄",
+    "answer": "Maleficent"
+  },
+  {
+    "id": 41,
+    "emoji": "👑🦢",
+    "answer": "The Swan Princess"
+  },
+  {
+    "id": 42,
+    "emoji": "🐟🐠🌊",
+    "answer": "The Little Mermaid"
+  },
+  {
+    "id": 43,
+    "emoji": "🐷🐕🚜",
+    "answer": "Charlotte's Web"
+  },
+  {
+    "id": 44,
+    "emoji": "🧙‍♀️⚗️🔮",
+    "answer": "Harry Potter"
+  },
+  {
+    "id": 45,
+    "emoji": "🍎👩‍🦳",
+    "answer": "Snow White and the Seven Dwarfs"
+  },
+  {
+    "id": 46,
+    "emoji": "🚢⚓🐋",
+    "answer": "Moana"
+  },
+  {
+    "id": 47,
+    "emoji": "👻💌",
+    "answer": "Ghost"
+  },
+  {
+    "id": 48,
+    "emoji": "👨‍👩‍👧‍👦🔍",
+    "answer": "The Incredibles"
+  },
+  {
+    "id": 49,
+    "emoji": "🎨🖌️",
+    "answer": "Loving Vincent"
+  },
+  {
+    "id": 50,
+    "emoji": "🐾🍂",
+    "answer": "Brother Bear"
+  },
+   {
+    "id": 51,
+    "emoji": "🚙⚡",
+    "answer": "Cars"
+  },
+  {
+    "id": 52,
+    "emoji": "🐼🥋",
+    "answer": "Kung Fu Panda"
+  },
+  {
+    "id": 53,
+    "emoji": "🎮👾",
+    "answer": "Ready Player One"
+  },
+  {
+    "id": 54,
+    "emoji": "🐦🌿",
+    "answer": "Rio"
+  },
+  {
+    "id": 55,
+    "emoji": "🏹🧝‍♂️",
+    "answer": "Robin Hood"
+  },
+  {
+    "id": 56,
+    "emoji": "💃🕺",
+    "answer": "Step Up"
+  },
+  {
+    "id": 57,
+    "emoji": "🕶️📞",
+    "answer": "The Matrix Reloaded"
+  },
+  {
+    "id": 58,
+    "emoji": "🐭🧀",
+    "answer": "Stuart Little"
+  },
+  {
+    "id": 59,
+    "emoji": "🐕🐾🎾",
+    "answer": "Marley & Me"
+  },
+  {
+    "id": 60,
+    "emoji": "🎻🎼",
+    "answer": "Coco"
+  },
+  {
+    "id": 61,
+    "emoji": "🐾🗻",
+    "answer": "Balto"
+  },
+  {
+    "id": 62,
+    "emoji": "🗽🗺️",
+    "answer": "Home Alone 2"
+  },
+  {
+    "id": 63,
+    "emoji": "🎸🎶",
+    "answer": "A Star is Born"
+  },
+  {
+    "id": 64,
+    "emoji": "🏀⛹️‍♂️",
+    "answer": "Space Jam"
+  },
+  {
+    "id": 65,
+    "emoji": "🚀👨‍👩‍👧‍👦",
+    "answer": "The Mitchells vs. The Machines"
+  },
+  {
+    "id": 66,
+    "emoji": "🐍🔮",
+    "answer": "Fantastic Beasts"
+  },
+  {
+    "id": 67,
+    "emoji": "🏠👧👟",
+    "answer": "Coraline"
+  },
+  {
+    "id": 68,
+    "emoji": "🔍🕵️‍♂️",
+    "answer": "Sherlock Holmes"
+  },
+  {
+    "id": 69,
+    "emoji": "🍕🐢",
+    "answer": "Teenage Mutant Ninja Turtles"
+  },
+  {
+    "id": 70,
+    "emoji": "🐅🏔️",
+    "answer": "Life of Pi"
+  },
+  {
+    "id": 71,
+    "emoji": "🐎🏜️",
+    "answer": "Spirit: Stallion of the Cimarron"
+  },
+  {
+    "id": 72,
+    "emoji": "🚢🐒🏝️",
+    "answer": "Madagascar 2"
+  },
+  {
+    "id": 73,
+    "emoji": "🌋🗺️",
+    "answer": "Journey to the Center of the Earth"
+  },
+  {
+    "id": 74,
+    "emoji": "👑⚔️🕊️",
+    "answer": "King Arthur"
+  },
+  {
+    "id": 75,
+    "emoji": "🐒🌌",
+    "answer": "Planet of the Apes"
+  },
+  {
+    "id": 76,
+    "emoji": "🎨👧",
+    "answer": "Frida"
+  },
+  {
+    "id": 77,
+    "emoji": "🔑🚪👻",
+    "answer": "The Others"
+  },
+  {
+    "id": 78,
+    "emoji": "🎈🏠",
+    "answer": "Up"
+  },
+  {
+    "id": 79,
+    "emoji": "🐾🧙‍♀️",
+    "answer": "The Secret Life of Pets"
+  },
+  {
+    "id": 80,
+    "emoji": "🎡🎢",
+    "answer": "The Greatest Showman"
+  },
+  {
+    "id": 81,
+    "emoji": "🏝️💔",
+    "answer": "Cast Away"
+  },
+  {
+    "id": 82,
+    "emoji": "👨‍🚒🔥",
+    "answer": "Ladder 49"
+  },
+  {
+    "id": 83,
+    "emoji": "🎭💡",
+    "answer": "The Truman Show"
+  },
+  {
+    "id": 84,
+    "emoji": "🌌👧🚲",
+    "answer": "E.T."
+  },
+  {
+    "id": 85,
+    "emoji": "🧙‍♂️⏳",
+    "answer": "Doctor Strange"
+  },
+  {
+    "id": 86,
+    "emoji": "👽🌠",
+    "answer": "Close Encounters of the Third Kind"
+  },
+  {
+    "id": 87,
+    "emoji": "🐝🌸",
+    "answer": "Bee Movie"
+  },
+  {
+    "id": 88,
+    "emoji": "🏕️👧🍞",
+    "answer": "The Hunger Games"
+  },
+  {
+    "id": 89,
+    "emoji": "🏰🌹🐻",
+    "answer": "Beauty and the Beast"
+  },
+  {
+    "id": 90,
+    "emoji": "🍀🐈",
+    "answer": "The Luck of the Irish"
+  },
+  {
+    "id": 91,
+    "emoji": "🌲🐿️",
+    "answer": "Over the Hedge"
+  },
+  {
+    "id": 92,
+    "emoji": "🐦🍊",
+    "answer": "Orange Bird"
+  },
+  {
+    "id": 93,
+    "emoji": "🐍🐾",
+    "answer": "Rango"
+  },
+  {
+    "id": 94,
+    "emoji": "🚤💦",
+    "answer": "Speed 2: Cruise Control"
+  },
+  {
+    "id": 95,
+    "emoji": "🎩👗🕰️",
+    "answer": "Cinderella"
+  },
+  {
+    "id": 96,
+    "emoji": "🎤🎬",
+    "answer": "La La Land"
+  },
+  {
+    "id": 97,
+    "emoji": "🍑🍎",
+    "answer": "James and the Giant Peach"
+  },
+  {
+    "id": 98,
+    "emoji": "🦇🏰",
+    "answer": "Hotel Transylvania"
+  },
+  {
+    "id": 99,
+    "emoji": "🤖🌏",
+    "answer": "Wall-E"
+  },
+  {
+    "id": 100,
+    "emoji": "🌪️🛋️",
+    "answer": "Twister"
   }
 ]
